@@ -11,7 +11,7 @@ def main():
             print ("Error in input name")
             return
         elif len(my_list) == 1:
-            full_name = os.path.join("https://", "www." + my_list[0] + ".edu")
+            full_name = os.path.join("https://",  "www." + my_list[0] + ".edu")
         elif len(my_list) == 2:
             full_name = os.path.join("https://", "www." + my_list[0] + '.' + my_list[1])
         else:
