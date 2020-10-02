@@ -1,0 +1,8 @@
+README.md
+setup.py
+FULL_URL/__init__.py
+FULL_URL/main.py
+example_pkg_ajiang36.egg-info/PKG-INFO
+example_pkg_ajiang36.egg-info/SOURCES.txt
+example_pkg_ajiang36.egg-info/dependency_links.txt
+example_pkg_ajiang36.egg-info/top_level.txt
